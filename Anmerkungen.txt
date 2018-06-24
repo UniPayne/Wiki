@@ -1,0 +1,181 @@
+1. Predective Analytics:
+Predictive Analytics ist ein Verfahren, in dem Datenanalysen verwendet werden, 
+um Vorhersagen anhand von Daten zu treffen. Dieser Prozess verwendet Daten zusammen 
+mit Analysen, Statistiken und Machine Learning-Techniken, um ein prädiktives Modell 
+für die Vorhersage zukünftiger Ereignisse zu erstellen.
+
+
+2. Deskriptive Erklärung:
+Beschreibende Erklärung
+
+
+3. Heterogene Daten:
+Daten die sich im "inneren Aufbau" uneinheitlich sind.
+
+
+4. Business Intelligence:
+Geschäftsanalytik, englisch Business Intelligence (Abkürzung BI) ist ein der 
+Wirtschaftsinformatik zuzuordnender Begriff, der Verfahren und Prozesse zur 
+systematischen Analyse des eigenen Unternehmens bezeichnet.
+
+
+5. Data Mining:
+[halb] automatische Auswertung großer Datenmengen zur Bestimmung bestimmter Regelmäßigkeiten.
+
+
+6. Big Data
+Eine großes Dataset. welches die Grenzen und Möglichkeiten der konventionellen IT übersteigt. 
+Zum Beispiel große schnelllebige Daten, welche die üblichen DB Systeme nicht mehr effizient
+verarbeiten können.
+
+
+7. Fraud Detection:
+
+
+8. Change and Turn --> Churn
+
+9. Architektonische (Konsequenzen)
+
+
+10. Controlling
+
+
+11. Ad-hoc
+
+
+12. OLAP
+
+
+13. KDD - Knowlegde Discovery in Databases:
+
+
+14. Predective Analytics vs Data Mining:
+Das Verfahren ist sehr ähnlich jedoch ist das "Resultat" ein anderes.
+Beim Data Mining geht es darum, dass die Daten tatsächlich gesammelt, udn ausgewertet werden.
+Bei Predective Analytics geht es darum, dass am Ende Modelle zur künftigen Analyse erstellt 
+werden. Predective Analytics werden genutzt, um 
+
+15. Decision Support Systems:
+
+
+16. Prescriptive Analytics
+
+
+17. Predictive Policing
+
+
+18. Industrie 4.0
+
+
+19. Wirkungsanalysen
+
+19.1. Zeitreihenanalysen
+
+19.2. Regressionsverfahren
+
+19.3. Künstliche Neuronale Netze
+
+19.4. Box-Jenkins Verfahren
+
+19.5. genetische Algorithmen
+
+
+
+20. Klassifikationsanalysen
+
+20.1. Logistische Regression:
+
+20.2. Klassifikationsbäume
+
+20.3. Spport - Vektor - Maschinen
+
+20.4. Bayessche Netze
+
+
+
+21. "Überlernen" bei prädiktiv orientierten Methoden
+
+
+
+22. Ensemble Learning
+
+
+
+23. CRISP-DM
+
+ 
+24. Heuristik
+
+
+25. "Black Box"
+
+
+26. "White-Box-Modelle"
+
+
+
+27. Simulationsmethoden
+
+
+
+28. Analyse Sandbox
+
+
+29. Sandbox
+
+
+30. Data Warehouses
+
+
+31. ARIMAX
+
+
+32. Support Vector Machine
+
+
+
+33. Operations Research
+
+
+34. Treibermodelle
+
+
+35. "Bottom-up"
+
+
+36. KPIs
+
+
+37. ensemble modelling
+
+
+38. ex-post
+
+
+
+39. Monte Carlo Simulation
+
+
+
+40. EBIT
+
+
+41. ERP System
+
+
+42. Granularität
+
+
+43. Neuronale Netze
+
+
+44. Multi Layer Perzeptron
+
+
+45. "Rolling Average" Methoden
+
+
+46. "Linear Regression" Methoden
+
+
+47. 
