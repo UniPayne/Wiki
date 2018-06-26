@@ -30,17 +30,28 @@ verarbeiten können.
 
 
 7. Fraud Detection:
-
+https://www.quora.com/Which-machine-learning-techniques-have-you-used-for-fraud-detection-and-why-Do-you-prefer-statistical-techniques-versus-artificial-intelligence
+https://www.sas.com/en_us/insights/articles/risk-fraud/fraud-detection-machine-learning.html
 
 8. Change and Turn --> Churn
+Ändern und bewegen. 
+Die Churn rate definiert eine verzeichnete Anzahl der Kunden bzw. Teilnehmer die den Dienst nicht mehr nutzen, geteilt durch die den Gesamtkunden. 
+Dies generiert eine Übersicht über das Wachstum oder die Abnahme der Kundenzahlen sowie die durchschnittliche Länge der Teilnahme am Dienst. 
+[HIER MEHR]https://de.wikipedia.org/wiki/Abwanderungsquote
 
-9. Architektonische (Konsequenzen)
 
 
 10. Controlling
+Begriff der Wirtschaftslehe und Teilfunktion der Unternehmensführung (Management). 
+Aufgabenbereich: 
+ - Unternehmensplanung
+ - Koordinationsplanung
+ - Kontrollaufgaben
 
 
 11. Ad-hoc
+Bedeutung: Aus dem Stehgreif.
+
 
 
 12. OLAP
@@ -178,4 +189,8 @@ werden. Predective Analytics werden genutzt, um
 46. "Linear Regression" Methoden
 
 
-47. 
+999. Links:
+https://www.ctcon.de/fileadmin/media/Media_Room/Downloads/CTcon_Download_Effektiv_und_effizient_steuern_mit_Predictive_Analytics.pdf
+https://www.computerwoche.de/a/was-ist-was-bei-predictive-analytics,3098583
+https://qymatix.de/de/predictive-analytics-big-data-beispiel-vertrieb/
+https://www.pmone.com/loesungen/planung/predictive-analytics/
