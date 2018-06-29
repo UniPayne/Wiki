@@ -1,0 +1,97 @@
+		
+		
+		Data Mining Systeme
+			Was ist Data Mining?
+			Wo werden Data Mining Systeme angewendet?
+			Welchen Nutzen habe ich von Data Mining Systeme
+			Welche Arten von Data Mining Systemen gibt es?
+			Was können Data Mining Systeme und was nicht?
+		
+		Predictive Analytic Systeme
+			Was versteht man unter "Predictive Analytics"?
+			Wo werden Predictive Analytics angewendet?
+			Welchen Nutzen habe ich von Predictive Analytics?
+			Welche Arten von Predictive Analytics gibt es?
+			Wo liegen die Grenzen bei Predictive Analytics?
+			Methoden der Predictive Analytics
+			
+____________________________________________________
+Resümee:
+Business Analytics ist die Kombination von Menschen, Aufgaben und Technik und damit 
+von Fähigkeiten, Technologien, Algorithmen, Anwendungen, Visualisierungen und Prozessen, 
+die nutzenstiftend unternehmensintern oder -extern Anwendung finden, um einen Einblick in 
+die Geschäftstätigkeit auf Basis von unternehmensinternen und -externen Daten zu gewinnen. 
+Der projektorientierte Einsatz erfolgt in einem Prozess, um unternehmensweite Aktivitäten 
+zu bewerten, so dass über Abteilungs- und Unternehmensgrenzen hinweg Erkenntnisse als 
+Entscheidungsbasis gesammelt werden, um aktuelle Maßnahmen und zukunftsorientierte 
+Handlungen daraus abzuleiten, welche die Unternehmensperformance positiv beeinflussen 
+und die langfristige Unternehmensentwicklung sichern.
+
+			
+____________________________________________________
+
+			
+Quellen:
+1. 
+http://www.controller-akademie.ch/aktuelles/Der-Controller-vom-Zahlenjongleur-zum-Strategen_289/
+Aufgerufen am Aufgerufen am 13.06.2018 um 15:37 Uhr CEST
+
+2.
+http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Business-Intelligence/Analytische-Informationssysteme--Methoden-der-/Business-Analytics
+Aufgerufen am 14.06.2018 um 10:15 Uhr CEST
+
+3. Business Intelligence
+https://de.wikipedia.org/wiki/Business_Intelligence
+Aufgerufen am 16.06.2018 um  15:28 Uhr CEST
+
+4. 
+https://abas-erp.com/de/news/business-analytics-vs-business-intelligence-wo-liegen-die-unterschiede
+Aufgerufen am 16.06.2018 um 18:13 Uhr CEST
+
+
+5. BI Overview
+https://barc.de/news/business-intelligence-fur-alle-bleibt-zukunftsmusik
+Aufgerufen am 17.06.2018 um 09:30 Uhr CEST
+
+
+6. Sammlung der Analyse tools:
+https://www.computerwoche.de/a/was-ist-was-bei-predictive-analytics,3098583,2
+Aufgerufen am 19.06.2018 um 08:03 Uhr CEST
+
+7. Data Mining
+https://de.wikipedia.org/wiki/Data-Mining
+Aufgerufen am 19.06.2018 um 09:43 CEST
+
+8. KDD
+https://de.wikipedia.org/wiki/Knowledge_Discovery_in_Databases
+Aufgerufen am 19.06.2018 um 10:08 Uhr CEST
+
+9. The Data Warehousing
+https://tdwi.org/Home.aspx
+Aufgerufen am 19.06.2018 um 14:54 Uhr CEST
+
+
+10. CRISP-DM
+http://statistik-dresden.de/archives/1128
+Aufgerufen am 19.06.2018 um 16:16 Uhr CEST
+
+
+
+
+
+
+
+
+
+
+
+Abbildungsverzeichnis:
+1. Controller.net Grafik 1 abwandeln
+
+2. Paper2
+
+3. KDD
+https://www.researchgate.net/profile/Sohaib_Latif/publication/259757435/figure/fig2/AS:297124118974477@1447851318372/Overview-of-the-steps-consulting-the-KDD-process.png
+19.06.2018
+
+

@@ -5,7 +5,7 @@
 
 \title{Technique and procedures of business analytics}
 
-\author{Sean Payne}
+\author{}
 
 \begin{document}
 \twocolumn[
@@ -13,98 +13,175 @@
   \maketitle\thispagestyle{firststyle}
     \begin{abstract}
     \vspace{8pt}
-    {\color{red} \textbf{NOCH MAL ÜBERARBEITEN} }
-Das folgende Paper handelt von den Techniken und Vorgehensweisen von Business Analytics. Hier wird das Augenmerk auf das Verfahren der "Predictive Analytics" und seine verschiedenen Methoden gelegt und wie man es einsetzen kann, um historische Daten auszuwerten. Diese Auswertungen sollen Unternehmen in der Zukunft helfen, Entscheidungen treffen zu können.
-    Frage: Was ist der Stand der Technik und der Wissenschaft bezüglich 
+Für den Leser: Dieses Paper wird definitiv noch in die englische Sprache übersetzt. Da viele meiner Paper aber auf deutsch waren, habe ich meine Informationen erst mal auf Deutsch niedergeschrieben!
+\linebreak    
+\linebreak
+Das folgende Paper handelt von den Techniken und Vorgehensweisen von Business Analytics. Hier wird zuerst auf Business Analytics per se eingegangen und anschließend das Augenmerk auf das Verfahren der "Predictive Analytics" und seine verschiedenen Methoden gelegt und wie man es einsetzen kann, um historische Daten auszuwerten. Diese Auswertungen sollen Unternehmen in der Zukunft helfen, Entscheidungen treffen zu können.
+
     
     \end{abstract}
     \vspace{16pt}
   \end{@twocolumnfalse}
 ]
 
-\section{Introduction}
+\section{Business Analytics}
+\subsection{Business Analytics - Einleitung}
+Früher war es die Aufgabe eines sogenannten Controllers, mit den Zahlen zu jonglieren und so die wirtschaftlichen Zahlen eines Unternehmens zu prüfen und wiederzugeben. Heutzutage hat sich dies aber geändert. Der Aufgabenbereich eines Controllers ist in den letzten Jahrzehnten um einiges komplexer und technisch versierter geworden. Heutzutage ist einer der Hauptaufgaben eines Controllers, sogenannte "Business Analytics" anzuwenden, um das Unternehmen wirtschaftlich zu halten, sodass es immer noch auf dem Markt vertreten sein kann. Doch was genau sind diese Business Analytics?
+Um einen besseren Einblick über die Business Analytics zu geben, werden zunächst folgende Fragen beantwortet: 
+
+\begin{enumerate}
+\item Was genau sind Business Analytics?
+\item Wie ist der generelle Ablauf bei Business Analytics?
+\item Wieso nutzt man Business Analytics?
+\item Wieso werden Business Analytics so viel Aufmerksamkeit gewidmet?
+\item Was ist bei Business Analytics zu beachten?
+\item Welche Analyse Tools bezüglich Business Analytic gibt es?
+\end{enumerate}
+
+\subsection{Was sind Business Analytics?}
+Unter Business Analytics versteht man das Verfahren der Erforschung und der Evaluation  historischer Daten für die zukünftige Orientierung des Unternehmens.  Wie bereits oben beschrieben, werden sie hauptsächlich als eine Art Werkzeug des Controllers gesehen. Mithilfe der Business Analytics werden, historische Daten des Unternehmens oder auch die Daten des Unternehmensumfeldes genutzt, um Entscheidungen treffen zu können, was für einen Kurs das Unternehmen einlenken sollte, um auch zukünftig wirtschaftlich agieren zu können. Es wichtig zu verstehen, dass es sich bei Business Analytics um einen andauernden Prozess handelt, welcher in mehrere Phasen unterteilt ist. Dieser wird in dem folgenden Unterbereich behandelt.
+
+\newpage
+\subsection{Business Analytics - Genereller Ablauf}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=8cm]{Abbildungen/Business_Analytics_Process.png}
+\caption{Business Analytics Process}\label{visina8}
+\end{figure}
+
+Dieser oben dargestellte, andauernde Prozess kann in etwa so interpretiert werden, dass der Controller ein gewisses fachliches Verständnis benötigt, um ein Gespür für die relevanten Daten zu entwickeln. Diese können und sollten nach Änderung der Marktgegebenheiten, Änderungen interner bzw. externer Strukturen, oder gar von Zeit zu Zeit angepasst werden. Situationsabhängig werden nun die Daten, welche in die Analyse einzuspeisen sind, vorbereitet und Modelliert. Auch hier ist es möglich, dass die Daten, welche zur Modellierung der Analyse dienen, mehrmals angepasst werden müssen. Ist die Modellierung nun abgeschlossen, kommt es zur Evaluierung der aus der Analyse gewonnenen Ergebnisse. Nun kann es sein, dass diese Ergebnisse nicht hilfreich sind, oder zu wenig Aussagekraft für die aktuelle Analyse bieten. Falls dies der Fall sein sollte, wird das fachliche Verständnis erneut aufbereitet und vertieft. Es ist auch möglich, dass das fachliche Verständnis von den Ergebnissen der Evaluation profitiert und anhand dessen eine neu ausgereifte Analyse gestartet werden kann. Falls die ursprüngliche Analyse jedoch gewünschte bzw. erhoffte Resultate liefert, werden diese nun verteilt bzw. weitergegeben, sodass das Unternehmen die nächsten Schritte zur Optimierung der Wirtschaftlichkeit einleiten kann. Zu guter Letzt wird der beschriebene Analyseprozess auf einen anderen, bedürftigen Bereich des Unternehmens angewendet, um die Wirtschaftlichkeit dieses Bereichs zu optimieren.
+
+\subsection{Wieso nutzt man Business Analytics?}
+Die Frage, weshalb man Business Analytics nutzt, ist leider nicht mit einem Satz zu beantworten. Man nutzt Business Analytics, um große Datenmengen, oder auch "Big Data", zu analysieren, beurteilen und zum Schluss auch noch zu bewerten. Ein sehr großer Vorteil an dem Verfahren ist es, dass man selbst uneinheitliche Daten, optimal strukturieren und auswerten kann. Dank dieser Auswertung ist es zum Beispiel möglich, das Konsumverhalten der Käufer zu interpretieren und analysieren und im besten Fall herausfindet, dass man wenn man die Produktionskosten des meistverkauften Produkts, durch intensive Forschung, senken kann und somit mehr Gewinn generiert. Wie bereits beschrieben, handelt es sich hier nur um einen Anwendungsfall. Zusammenfassend lässt sich also behaupten, dass durch den Einsatz von Business Analytics, und die dadurch generierte - zum Beispiel - Marktforschung, positiv auf die Unternehmen auswirkt, die es verwenden.
+
+\subsection{Wieso werden Business Analytics so viel Aufmerksamkeit gewidmet?}
+Das Konzept der Business Analytics, welches auf dem Prinzip der Business Intelligence beruht, ist definitiv kein neues. Die ersten Ansätze der Business Intelligence wurden bereits Ende der 50iger Jahre veröffentlicht (siehe Wikipedia) und befassten sich mit der kontinuierlichen Datenerfassung innerhalb eines Unternehmens. Warum also, wird diesem Thema auch heutzutage noch so viel Beachtung geschenkt? Zum Einen, weil sich der Grundgedanke von Business Intelligence zu Business Analytics geändert hat. Es sollen nun also nicht mehr einfach die Daten erfasst und verwaltet werden, vielmehr werden diese zusätzlich noch sach- und fachgerecht ausgewertet. Zum Anderen weil die heutige technische Stand viel mehr Möglichkeiten bietet. Es ist zum Beispiel theoretisch möglich, den oben geschilderten Ablauf der Business Analytics, vollständig durch eine Hardware-Software-Kombination durchzuführen. 
+
+\subsection{Anwendungsfelder von Business Analytics}
+Wenn ein Unternehmen sich dafür entschieden hat, Business Analytics als Punkt zur Optimierung wahrzunehmen, muss auf  die richtigen Methoden und Algorithmen geprüft werden. Des Weiteren muss geprüft werden, was für eine Art von Business Analytics System in dem Unternehmen brauchbar sein wird. Dafür unterteilen  Mehenna et al die Anwendungsfelder der Business Analytics in folgende 5 Bereiche ein:
+
+\begin{itemize}
+\item Analyse
+\item Forecast
+\item Optimierung
+\item Simulation
+\item Radar
+\end{itemize}
+
+Diese 5 genannten Anwendungsfelder erlauben dem Business Analytics System, falls diese Anwendungsfelder in zusammenwirken sollten, das vollständige Potenzial zu nutzen (vgl. Mehenna et al. 2016 S.51) 
+
+\subsubsection{Analyse}
+Grundlage aller Business Analytics Systeme ist es, eine Analyse auf vorhandene historische Daten zu fahren. Hierbei wird das Anwendungsfeld der Analyse als Prozess gesehen, welcher impliziert, dass aus den einzelnen strukturellen Eigenschaften der Daten, Erkenntnisse gewonnen werden. Was für eine Art von Big Data Analyseverfahren genutzt wird, ist von Ziel zu Ziel unterschiedlich. Die Analyseverfahren werden im späteren Verlauf des Papers weiter erläutert. Das Ziel des Anwendungsfeld der Analyse ist es, dass man Fragen beantworten kann. 
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=20cm]{Abbildungen/Analysis.png}
+\caption{Analysis Questions}\label{visina8}
+\end{figure}
+
+Wie Figure 2 entnommen werden kann, handelt es sich bei den Fragen die gestellt und beantwortet werden können, jeweils um eine andere Lösung des Business Analytic Systems. Im Rahmen des Anwendungsfeldes der Analyse, beläuft es sich jedoch ausschließlich um die sogenannten "Descriptive Analytics", die "Diagnostic Analytics" und die "Real-time Analytics". Die Descriptive Analytics kommen dem klassischen Reporting nach, wo im nachhinein analysiert wird, was, wann geschehen ist. Die Diagnostic Analytics entsprechen dem investigativem Ansatz. Hier wird sich vor allem gefragt, weshalb es zu einer entsprechenden Situation kommen konnte. Die letzte dargestellte Möglichkeit des Anwendungsfeldes der Analyse entspricht dem Prinzip der Real-time Analytics. Diese basieren aus einem Monitoring der sich im aktuellen Betrieb befindlichen System beziehungsweise Systemen. 
+
+\subsubsection{Forecast}
+
+\subsubsection{Optimierung}
+
+\subsubsection{Simulation}
+
+\subsubsection{Radar}
 
 
-\begin{list}{}
-	\item {\color{red} \textbf{Aufbau der Arbeit} }
-	\begin{enumerate}
-		\item{1.}  Business Analytics
-			\begin{enumerate}
-				\item Was sind Business Analytics?
-				\item Wo werden sie eingesetzt?
-				\item Welchen Nutzen haben Business Analytics
-				\item Was macht Business Analytics aus?
-			\end{enumerate}				
-		\item Data Mining Systeme
-		\begin{enumerate}
-			\item Was ist Data Mining?
-			\item Wo werden Data Mining Systeme angewendet?
-			\item Welchen Nutzen habe ich von Data Mining Systeme
-			\item Welche Arten von Data Mining Systemen gibt es?
-			\item Was können Data Mining Systeme und was nicht?
-		\end{enumerate}	
-		
-		\item Predictive Analytic Systeme
-		\begin{enumerate}
-			\item Was versteht man unter "Predictive Analytics"?
-			\item Wo werden Predictive Analytics angewendet?
-			\item Welchen Nutzen habe ich von Predictive Analytics?
-			\item Welche Arten von Predictive Analytics gibt es?
-			\item Wo liegen die Grenzen bei Predictive Analytics?
-			\item Methoden der Predictive Analytics
-		\end{enumerate}
-	\end{enumerate}
-\end{list}
+\subsection{Was ist bei Business Analytics zu beachten?}
+Bislang wurde in diesem Paper ausschließlich positiv von Business Analytics beschrieben. Wie kommt es dann, dass nicht jedes Unternehmen mit Business Analytics arbeitet? Einer der Gründe ist, dass die Investition in die Technologie selber relativ kostspielig ist und noch lange nicht alle Probleme löst. Wichtig ist es auch, dass die Anwender dazu in der lage sein müssen, die Probleme eingrenzen können und darauf dann ihre Analysen fahren. Nur derjenige, welcher im Vorhinein die richtigen Daten zur Analyse gibt, wird eventuell auf brauchbare Ergebnisse kommen. Des Weiteren ist es nicht nur relevant, welche Daten, der Analyse zur Verfügung gestellt werden, sondern auch mit welchem Algorithmus diese verarbeitet werden. Zusätzlich kommt der Stil der Visualisierung der Ergebnisse hinzu. Solange diese nicht entsprechend sinnvoll dargestellt werden, bringen einen die effektivsten Algorithmen und die besten Daten nichts. Zu guter Letzt liegt es jedoch immer an der endgültigen Interpretation der zuständigen Instanz. Wie sich hieraus schlussfolgern lässt, gibt es bei den Business Analytics auch eine beachtliche Menge an Risiken. Wie sollte man Business Analytics also verwenden? Carsten Felden hat es in seinem Blog wie folgt erläutert: 'Zunächst einmal ist bei einer Einführung von Business Analytics der Mehrwert für das Unternehmen zu bestimmen, da der erworbene Nutzen den Aufwand rechtfertigen muss. Eine weitere Facette ist die zu Grunde liegende projektorientierte und prozessuale Betrachtung. Das projektorientierte Charakteristikum entsteht daraus, dass es beispielsweise in der Natur von Data Mining-Ansätzen liegt, kein Regelkreis zu sein. Für die jeweiligen wertstiftenden Aufgabenstellungen sind jeweils neu Daten zusammenzustellen, zielorientierte Analyseoptionen für die dann zu Grunde liegenden Daten zu evaluieren und auszuführen, um die Ergebnisse im täglichen Geschäftsbetrieb einsetzen zu können.' \cite{Beispiel1:2016} Wie dem Text von Carsten Felden entnommen werden kann, sollte zunächst betrachtet werden, ob das Anwendungsgebiet des Unternehmens überhaupt einen Nutzen für Business Analytics wiedergibt oder nicht. Anschließend ist es wichtig, dass das System dauerhaft mit sinnvollen Informationen versorgt wird bzw. versorgt werden kann. Falls diese Punkte schon nicht dafür sprechen sollten, sollte sich das Unternehmen   nicht für einen Lösungsansatz basierend auf Business Analytics entscheiden.
+
+\subsection{Welche Analyse Tools bezüglich Business Analytic gibt es?}
+Da es sich bei Business Analytics mehr um einen Ansatz, als um eine konkrete Lösung handelt, gibt es auch hier verschiedene Analyse Tools. Hier sind einige der Gängigsten:
+
+\begin{itemize}
+\item A/B Tests
+\item Statistische bzw. quantitative Analyse
+\item Data Mining
+\item Predictive Analytics
+\end{itemize}
+
+Während die A/B Tests, statistische bzw. quantitative Analyse und dem Data Mining schon ziemlich genaue Ansätze sind um ein Unternehmen zu planen, handelt es bei den Predictive Analytics wiederum um ein Teilgebiet der Business Analytics. In den folgenden Kapiteln werden das Data Mining und die Predictive Analytics dargestellt.
+
+\section{Data Mining}
+\subsection{Data Mining - Einleitung}
+Im Zuge der Business Analytics, gibt es viele Verfahren bzw. Tools um große Datenmengen zu analysieren und später zu evaluieren. Es ist kein großes Problem, Daten zu evaluieren, welche sich nur in den einzelnen Werten ändern. Was jedoch, wenn die Daten einen ungleichmäßigen Aufbau haben? Für den eben angesprochenen Fall, der sogenannten heterogenen Daten, gibt es das Verfahren des Data Minings. 
+
+\subsection{Data Mining - KDD Prozess}
+Im Grunde genommen ist das Data Mining ein Teilschritt, und zwar der, der Datenanalyse, des Knowledge Discovery in Databases-Prozesses. 'Ziel des KDD ist die Erkennung bislang unbekannter fachlicher Zusammenhänge aus vorhandenen, meist großen Datenbeständen. In Abgrenzung zum Data-Mining umfasst KDD als Gesamtprozess auch die Vorbereitung der Daten sowie die Bewertung der Resultate.' \cite{Beispiel2:2016}
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=8cm]{Abbildungen/KDD.png}
+\caption{KDD Process}\label{visina8}
+\end{figure}
+
+Wie Figure 3 entnommen werden kann, besteht der KDD Prozess aus mehreren Teilschritten. Der erste Schritt, der Schritt der Selection, besteht daraus, dass zuerst das man aus dem Sammelsurium der zur Verfügung stehenden Daten, jene herauspickt, welche eine Bedeutung für die zu fahrende Analyse haben könnten. Anschließend werden diese preprocessed, damit Datenfehler entfernt und korrigiert werden. Nun folgt der Prozess der Datenreduktion, in dem die Daten auf den zu verarbeitenden Dateninhalt reduziert werden. Danach folgt der Schritt des Data-Minings, in welchem die eigentliche Datenanalyse gefahren wird. Das Ergebnis dieser Analyse wird in verschiedene, vorher ausgewählte Pattern geschoben und zu guter Letzt werden diese dann vom Nutzer evaluiert beziehungsweise interpretiert.
+
+\subsection{Data Mining - Anwendungsverfahren}
+Die Verfahren, in welche eine Data-Mining-Anwendung arbeitet, unterscheidet sich von Unternehmen zu Unternehmen und selbst hier von Situation zu Situation. Im wesentlichen sind die typischen Verfahren in die folgenden unterteilt(8 im Dokument):
+
+\begin{itemize}
+\item Anomalie-Analyse
+\item Clusteranalysen
+\item Klassifikation
+\item Assoziationsanalysen
+\item Regressionsanalyse
+\end{itemize}
+
+\subsubsection{Anomalie-Analyse}
+Bei der Anomalie-Analyse handelt es sich um eine Analyseart, in der ein Mittelwert gebildet wird und jeder Datensatz welcher sich zu sehr von diesem Mittelwert unterscheidet, wird als suspicious markiert. Es ist üblich, dass als suspicios markierte Datensätze, von einem User manuell, auf Richtigkeit, überprüft werden.
+
+\subsubsection{Clusteranalysen}
+Bei sogenannten Clusteranalysen werden die Datensätze in gewissen Häufungen innerhalb eines Datenraumes analysiert. Falls ein Datensatz nicht in ein Cluster passt, wird er, je nach Verfahrensart, wie bei der Anomalie-Analyse, als suspicious markiert. Auch hier werden als suspicious markierte Datensätze, von einem User auf Richtigkeit geprüft.
+
+\subsubsection{Klassifikation von Daten}
+Ähnlich wie bei den Clusteranalysen, werden bei der Kassifikation von Daten, die Datensätze in einen Datenraum analysiert und abgebildet. Anders als bei der Clusteranalyse, werden diese Räume jedoch vor dem Analyseverfahren vordefiniert. 
+
+\subsubsection{Assoziationsanalysen}
+Die Assioziationsanalysen suchen Normalität bzw. Regelfälle in den Datensätzen. Diese Ergebnisse könnten zum Beispiel angeben, welche Art von Objekten in irgendeiner Art und Weise in Relation zueinander stehen. 
+
+\subsubsection{Regressionsanalysen}
+Bei der Regressionsanalyse steht die Analyse der Zusammenhänge einzelner Daten eines Datensatzes im Vordergrund. Dies erlaubt dem Nutzer zu erkennen, ob die Art der Datensätze vollständig sind, oder ob sie um  irgendwelche relevanten Attribute ergänzt werden sollten.
+
+\subsection{Data Mining - Schlussfolgerung}
+Abschließend kann gesagt werden, dass Data Mining Anwendungen den Zweck verfolgen, nicht triviale Muster in größeren Datenmengen aufzudecken. Die anschließend daraus gewonnenen Modelle werden üblicherweise auf aktuelle/zukünftige Datenkonstellationen angewendet um somit Informationen aus der gefahrenen Analyse ziehen zu können.
+
+\section{Predictive Analytics}
+\subsection{Predictive Analytics - Einleitung}
+\section{Business Analytics - Stand der Wissenschaft}
+\section{Business Analytics - Stand der Technik}
+
+\section{Data Mining vs Predictive Analytics}
 
 
-\begin{list}{}
-\item[*] Der Forschungsstand bei Business Analytics
-\item[•] Zeigen wo die Lücken im System sind
-\item[•] Ziel dieses Papers
-\item[•] Zweck dieses Papers
-\item[•] Fragestellung meinerseits
-\item[•] Hypothesen die ich aufstelle
-\end{list}
 
 
 
 
 
-\section{Methods}
-\begin{list}{•}
-\item Das Vorgehen bei der Identifikation der ausgewerteten Studien und die Bewertung ihrer Qualität.
-\end{list}
 
-
-\section{Results}
-\begin{list}{•}
-\item Zusammenfassen der Ergebnisse
-\end{list}
-
-
-\section{Discussion}
-\begin{list}{•}
-\item[•] Einordnen der Resultate in den Forschungsstand der Einleitung
-\item[•] Auf bestehende Erkenntnisse und Hypothese Bezug nehmen
-\item[•] Man startet mit den Ergebnissen und wendet diese dann auf die Allgemeinheit an
-\end{list}
-
-
-\subsection{Zitierbeispiel}
+\section{Zitierbeispiel}
 'The structure of the Definition Schema is a representation of the data model of SQL.' \cite{ISO9075-1:2011}
 
 
 \newpage
 
 \begin{thebibliography}{99}
-	
+	\bibitem{Beispiel1:2016}
+	Beispiel1: http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Business-Intelligence/Analytische-Informationssysteme--Methoden-der-/Business-Analytics 
+	Aufgerufen am 23.06.2018 um 15:37 Uhr CEST
+	\bibitem{Beispiel2:2018}
+	Beispiel2: https://de.wikipedia.org/wiki/Knowledge-Discovery-in-Databases
+	Aufgerufen am 19.06.2018 um 11:54 Uhr CEST
 	\bibitem{ISO9075-1:2011}
 	ISO/IEC 9075-1: Information technology
 	Database languages -SQL- ,Part 1: Framework
 	(SQL/Framework), 4. Auflage, ISO Copyright Office,
 	Genf 2011
-	
-	
 \end{thebibliography}
 
 \end{document}
