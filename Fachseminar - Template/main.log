@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.23)  29 JUN 2018 16:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.6.23)  1 JUL 2018 18:35
 entering extended mode
 **./main.tex
 (main.tex
@@ -729,299 +729,140 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 25.
+(Font)              <14.4> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
+(Font)              <7> on input line 21.
+<Abbildungen/Business_Analytics_Process.png, id=127, 247.67531pt x 155.07938pt>
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]\OT1/lmss/m/n/10.95 F[]ur den Leser: Dieses Pa-per wird defini-tiv noch in di
-e en-glis-che
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-\OT1/lmss/m/n/10.95 Sprache []ubersetzt. Da viele meiner Pa-per aber auf deutsc
-h waren,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-\OT1/lmss/m/n/10.95 habe ich meine In-for-ma-tio-nen erst mal auf Deutsch niede
-rgeschrieben!
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-
- []
-
-
-Underfull \hbox (badness 1571) in paragraph at lines 29--31
-\OT1/lmss/m/n/12 Heutzu-tage ist einer der Haup-tauf-gaben
- []
-
-
-Underfull \hbox (badness 2617) in paragraph at lines 37--38
-[]\OT1/lmss/m/n/12 Was ist bei Busi-ness An-a-lyt-ics zu
- []
-
-
-Underfull \hbox (badness 2142) in paragraph at lines 42--43
-\OT1/lmss/m/n/12 Un-ternehmen ein-lenken sollte, um auch
- []
-
-<fhbielefeld_logo.png, id=123, 2007.5pt x 1264.725pt>
-File: fhbielefeld_logo.png Graphic file (type png)
-<use fhbielefeld_logo.png>
-Package pdftex.def Info: fhbielefeld_logo.png  used on input line 44.
-(pdftex.def)             Requested size: 56.9055pt x 35.83661pt.
-[1{C:/Users/Sean/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
- <./fhbielefeld_logo.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 45--45
-|[]\OT1/lmss/bx/n/14.4 Business An-a-lyt-ics -
- []
-
-<Abbildungen/Business_Analytics_Process.png, id=141, 330.23375pt x 206.7725pt>
 File: Abbildungen/Business_Analytics_Process.png Graphic file (type png)
 <use Abbildungen/Business_Analytics_Process.png>
 Package pdftex.def Info: Abbildungen/Business_Analytics_Process.png  used on in
-put line 49.
-(pdftex.def)             Requested size: 227.62204pt x 142.52803pt.
+put line 46.
+(pdftex.def)             Requested size: 227.62204pt x 142.52328pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 49--50
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 46--47
  [][] 
  []
 
 
-Underfull \hbox (badness 1960) in paragraph at lines 53--54
-\OT1/lmss/m/n/12 Struk-turen, oder gar von Zeit zu Zeit
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<fhbielefeld_logo.png, id=129, 2007.5pt x 1264.725pt>
+File: fhbielefeld_logo.png Graphic file (type png)
+<use fhbielefeld_logo.png>
+Package pdftex.def Info: fhbielefeld_logo.png  used on input line 49.
+(pdftex.def)             Requested size: 56.9055pt x 35.83661pt.
+ [1{C:/Users/Sean/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 53--54
-\OT1/lmss/m/n/12 el-liert. Auch hier ist es m[]oglich, dass
- []
+ <./fhbielefeld_logo.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 53--54
-\OT1/lmss/m/n/12 die Daten, welche zur Mod-el-lierung der
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 53--54
-\OT1/lmss/m/n/12 den m[]ussen. Ist die Mod-el-lierung nun
- []
-
-
-Underfull \hbox (badness 1259) in paragraph at lines 53--54
-\OT1/lmss/m/n/12 i-tiert und an-hand dessen eine neu aus-
- []
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 56--57
-\OT1/lmss/m/n/12 t-forschung, pos-i-tiv auf die Un-ternehmen
- []
-
-
-Underfull \hbox (badness 3364) in paragraph at lines 58--58
+Underfull \hbox (badness 3364) in paragraph at lines 55--55
 \OT1/lmss/bx/n/14.4 a-lyt-ics so viel Aufmerk-
  []
 
-[2 <./Abbildungen/Business_Analytics_Process.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 61--61
-|[]\OT1/lmss/bx/n/14.4 Anwendungsfelder von
- []
+[2 <./Abbildungen/Business_Analytics_Process.png>]
+LaTeX Font Info:    Try loading font information for OMS+lmss on input line 62.
 
+LaTeX Font Info:    No file OMSlmss.fd. on input line 62.
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-[]\OT1/lmss/m/n/12 Wenn ein Un-ternehmen sich daf[]ur
- []
-
-
-Underfull \hbox (badness 2951) in paragraph at lines 62--63
-\OT1/lmss/m/n/12 entschieden hat, Busi-ness An-a-lyt-ics als
- []
-
-
-Underfull \hbox (badness 5878) in paragraph at lines 62--63
-\OT1/lmss/m/n/12 Punkt zur Op-ti-mierung wahrzunehmen,
- []
-
-
-Underfull \hbox (badness 1460) in paragraph at lines 62--63
-\OT1/lmss/m/n/12 brauch-bar sein wird. Daf[]ur un-terteilen
- []
-
-LaTeX Font Info:    Try loading font information for OMS+lmss on input line 65.
-
-LaTeX Font Info:    No file OMSlmss.fd. on input line 65.
 
 LaTeX Font Warning: Font shape `OMS/lmss/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 65.
+(Font)              for symbol `textbullet' on input line 62.
 
-
-Underfull \hbox (badness 2080) in paragraph at lines 75--76
-\OT1/lmss/m/n/12 einzel-nen struk-turellen Eigen-schaften der
- []
-
-<Abbildungen/Analysis.png, id=147, 859.71187pt x 441.90094pt>
+<Abbildungen/Analysis.png, id=153, 859.71187pt x 441.90094pt>
 File: Abbildungen/Analysis.png Graphic file (type png)
 <use Abbildungen/Analysis.png>
-Package pdftex.def Info: Abbildungen/Analysis.png  used on input line 79.
+Package pdftex.def Info: Abbildungen/Analysis.png  used on input line 77.
 (pdftex.def)             Requested size: 569.05511pt x 292.50511pt.
 
-Overfull \hbox (353.43306pt too wide) in paragraph at lines 79--80
+Overfull \hbox (353.43306pt too wide) in paragraph at lines 77--78
  [][] 
  []
 
-[3 <./Abbildungen/Analysis.png>]
-Underfull \hbox (badness 1460) in paragraph at lines 95--96
-\OT1/lmss/m/n/12 den Aufwand recht-fer-ti-gen muss. Eine
+
+Underfull \vbox (badness 2529) has occurred while \output is active []
+
+ [3 <./Abbildungen/Analysis.png>]
+
+LaTeX Warning: Citation `Mehanna et al. 2016' on page 4 undefined on input line
+ 91.
+
+[4]
+Underfull \hbox (badness 3407) in paragraph at lines 103--103
+|[]\OT1/lmss/bx/n/14.4 What anal-y-sis tools are
  []
 
+[5]
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-|[]\OT1/lmss/bx/n/14.4 Welche Anal-yse Tools
- []
+LaTeX Warning: Citation `Beispiel:2016' on page 6 undefined on input line 121.
 
-
-Underfull \hbox (badness 5681) in paragraph at lines 97--97
-\OT1/lmss/bx/n/14.4 bezuglich Busi-ness An-a-
- []
-
-
-Underfull \hbox (badness 1742) in paragraph at lines 111--112
-\OT1/lmss/m/n/12 viele Ver-fahren bzw. Tools um groe
- []
-
-
-Underfull \vbox (badness 6575) has occurred while \output is active []
-
- [4]
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-|[]\OT1/lmss/bx/n/14.4 Data Min-ing - KDD
- []
-
-
-LaTeX Warning: Citation `Beispiel2:2016' on page 5 undefined on input line 114.
-
-
-
-Underfull \hbox (badness 1430) in paragraph at lines 114--115
-\OT1/lmss/m/n/12 Mining um-fasst KDD als Gesamt-prozess
- []
-
-<Abbildungen/KDD.png, id=160, 853.1875pt x 536.0025pt>
+<Abbildungen/KDD.png, id=173, 853.1875pt x 536.0025pt>
 File: Abbildungen/KDD.png Graphic file (type png)
 <use Abbildungen/KDD.png>
-Package pdftex.def Info: Abbildungen/KDD.png  used on input line 118.
+Package pdftex.def Info: Abbildungen/KDD.png  used on input line 125.
 (pdftex.def)             Requested size: 227.62204pt x 142.99689pt.
 
-Overfull \hbox (11.99998pt too wide) in paragraph at lines 118--119
+Overfull \hbox (11.99998pt too wide) in paragraph at lines 125--126
  [][] 
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 122--123
-[]\OT1/lmss/m/n/12 Wie Fig-ure 3 ent-nom-men wer-den kann,
- []
+Underfull \vbox (badness 4403) has occurred while \output is active []
 
-
-Underfull \hbox (badness 1158) in paragraph at lines 122--123
-\OT1/lmss/m/n/12 besteht der KDD Prozess aus mehreren
- []
-
-
-Underfull \hbox (badness 1708) in paragraph at lines 122--123
-\OT1/lmss/m/n/12 fahrende Anal-yse haben k[]onnten. An-
- []
-
-
-Underfull \hbox (badness 5924) in paragraph at lines 124--124
-|[]\OT1/lmss/bx/n/14.4 Data Min-ing - An-wen-
- []
-
-
-Underfull \hbox (badness 3386) in paragraph at lines 125--126
-\OT1/lmss/m/n/12 hier von Sit-u-a-tion zu Sit-u-a-tion. Im
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 136--137
-\OT1/lmss/m/n/12 sich zu sehr von diesem Mit-tel-w-ert un-
- []
-
-
-Underfull \hbox (badness 1067) in paragraph at lines 136--137
-\OT1/lmss/m/n/12 ter-schei-det, wird als sus-pi-cious markiert.
- []
-
-[5 <./Abbildungen/KDD.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 155--155
-|[]\OT1/lmss/bx/n/17.28 Business An-a-lyt-ics -
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
-|[]\OT1/lmss/bx/n/17.28 Business An-a-lyt-ics -
- []
-
-
-Underfull \vbox (badness 2181) has occurred while \output is active []
-
- [6]
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+ [6 <./Abbildungen/KDD.png>] [7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 []\OT1/lmss/m/n/12 Beispiel1:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 \OT1/lmss/m/n/12 http://www.enzyklopaedie-der-
  []
 
 
-Overfull \hbox (1.77493pt too wide) in paragraph at lines 175--177
+Overfull \hbox (1.77493pt too wide) in paragraph at lines 180--182
 \OT1/lmss/m/n/12 wirtschaftsinformatik.de/lexikon/daten-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 \OT1/lmss/m/n/12 wissen/Business-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 \OT1/lmss/m/n/12 Intelligence/Analytische-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--177
+Underfull \hbox (badness 10000) in paragraph at lines 180--182
 \OT1/lmss/m/n/12 Informationssysteme--Methoden-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
 []\OT1/lmss/m/n/12 Beispiel2:
  []
 
 
-Overfull \hbox (14.90334pt too wide) in paragraph at lines 178--180
+Overfull \hbox (14.90334pt too wide) in paragraph at lines 183--185
 \OT1/lmss/m/n/12 https://de.wikipedia.org/wiki/Knowledge-
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
-[7
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 192.
+[9
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 192.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 192.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 192.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9A32F3EF72DFB67EA02FCFE0E8D14E8F;2320.
+(rerunfilecheck)             Checksum: D7F6CDE8AEA1AFAB0A3AA64C6ECD46F4;2549.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1032,24 +873,24 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 187.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 192.
  ) 
 Here is how much of TeX's memory you used:
- 7398 strings out of 493305
- 106927 string characters out of 3138877
- 310007 words of memory out of 3000000
- 10794 multiletter control sequences out of 15000+200000
+ 7405 strings out of 493305
+ 107027 string characters out of 3138877
+ 310999 words of memory out of 3000000
+ 10797 multiletter control sequences out of 15000+200000
  29624 words of font info for 28 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,15n,45p,2492b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,15n,45p,2109b,407s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}<C:/Program Files/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmss17.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on main.pdf (7 pages, 313712 bytes).
+Output written on main.pdf (9 pages, 300452 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 50 named destinations out of 1000 (max. 500000)
- 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 269 words of extra memory for PDF output out of 10000 (max. 10000000)
 
