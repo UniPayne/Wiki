@@ -1,54 +1,5 @@
-	
-Quellen:
-1. 
-http://www.controller-akademie.ch/aktuelles/Der-Controller-vom-Zahlenjongleur-zum-Strategen_289/
-Aufgerufen am Aufgerufen am 13.06.2018 um 15:37 Uhr CEST
-
-2.
-http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Business-Intelligence/Analytische-Informationssysteme--Methoden-der-/Business-Analytics
-Aufgerufen am 14.06.2018 um 10:15 Uhr CEST
-
-3. Business Intelligence
-https://de.wikipedia.org/wiki/Business_Intelligence
-Aufgerufen am 16.06.2018 um  15:28 Uhr CEST
-
-4. 
-https://abas-erp.com/de/news/business-analytics-vs-business-intelligence-wo-liegen-die-unterschiede
-Aufgerufen am 16.06.2018 um 18:13 Uhr CEST
-
-
-5. BI Overview
-https://barc.de/news/business-intelligence-fur-alle-bleibt-zukunftsmusik
-Aufgerufen am 17.06.2018 um 09:30 Uhr CEST
-
-
-6. Sammlung der Analyse tools:
-https://www.computerwoche.de/a/was-ist-was-bei-predictive-analytics,3098583,2
-Aufgerufen am 19.06.2018 um 08:03 Uhr CEST
-
-7. Data Mining
-https://de.wikipedia.org/wiki/Data-Mining
-Aufgerufen am 19.06.2018 um 09:43 CEST
-
-8. KDD
-https://de.wikipedia.org/wiki/Knowledge_Discovery_in_Databases
-Aufgerufen am 19.06.2018 um 10:08 Uhr CEST
-
-9. The Data Warehousing
-https://tdwi.org/Home.aspx
-Aufgerufen am 19.06.2018 um 14:54 Uhr CEST
-
-
-10. Erlössteuerrung
-https://www.thieme-connect.de/products/ebooks/pdf/10.1055/b-0034-34809.pdf
-Aufgerufen am 20.06.2018 um 10:14 Uhr CEST
-
-11. Digital Forecasts:
-https://www.horvath-partners.com/fileadmin/user_upload/E_Business_Intelligence_Magazine_Mehanna_Digital_Forecasts.pdf
-
-
 Abbildungsverzeichnis:
-1. Controller.net Grafik 1 abwandeln
+1. Source: http://www.enzyklopaedie-der-wirtschaftsinformatik.de/lexikon/daten-wissen/Business-Intelligence/Members/felden/BAProzess.png
 
 2. Paper2
 
