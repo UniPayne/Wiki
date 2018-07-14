@@ -1,31 +1,29 @@
-\BOOKMARK [1][-]{section.1}{Business Analytics}{}% 1
-\BOOKMARK [2][-]{subsection.1.1}{Business Analytics - Introduction}{section.1}% 2
-\BOOKMARK [2][-]{subsection.1.2}{What are business analytics?}{section.1}% 3
-\BOOKMARK [2][-]{subsection.1.3}{Business Analytics - General procedure}{section.1}% 4
-\BOOKMARK [2][-]{subsection.1.4}{Why do you use Business Analytics?}{section.1}% 5
-\BOOKMARK [2][-]{subsection.1.5}{Wieso werden Business Analytics so viel Aufmerksamkeit gewidmet?}{section.1}% 6
-\BOOKMARK [2][-]{subsection.1.6}{Business Analytics - Application Areas}{section.1}% 7
-\BOOKMARK [3][-]{subsubsection.1.6.1}{Application Area - Analysis}{subsection.1.6}% 8
-\BOOKMARK [3][-]{subsubsection.1.6.2}{Application Area - Forecast}{subsection.1.6}% 9
-\BOOKMARK [3][-]{subsubsection.1.6.3}{Application Area - Optimization}{subsection.1.6}% 10
-\BOOKMARK [3][-]{subsubsection.1.6.4}{Application Area - Simulation}{subsection.1.6}% 11
-\BOOKMARK [3][-]{subsubsection.1.6.5}{Application Area - Radar}{subsection.1.6}% 12
-\BOOKMARK [3][-]{subsubsection.1.6.6}{Application Area - R\351sum\351}{subsection.1.6}% 13
-\BOOKMARK [2][-]{subsection.1.7}{What has to be considered with Business Analytics?}{section.1}% 14
-\BOOKMARK [2][-]{subsection.1.8}{What analysis tools are available for Business Analytic?}{section.1}% 15
-\BOOKMARK [1][-]{section.2}{Knowledge Discovery in Databases\(KDD\) }{}% 16
-\BOOKMARK [2][-]{subsection.2.1}{KDD - Introduction}{section.2}% 17
-\BOOKMARK [2][-]{subsection.2.2}{KDD - Process}{section.2}% 18
-\BOOKMARK [2][-]{subsection.2.3}{KDD - Data Mining Application Procedures}{section.2}% 19
-\BOOKMARK [3][-]{subsubsection.2.3.1}{Anomaly analysis}{subsection.2.3}% 20
-\BOOKMARK [3][-]{subsubsection.2.3.2}{Cluster analyses}{subsection.2.3}% 21
-\BOOKMARK [3][-]{subsubsection.2.3.3}{Classification}{subsection.2.3}% 22
-\BOOKMARK [3][-]{subsubsection.2.3.4}{Association analyses}{subsection.2.3}% 23
-\BOOKMARK [3][-]{subsubsection.2.3.5}{Regression analysis}{subsection.2.3}% 24
-\BOOKMARK [2][-]{subsection.2.4}{KDD - Data Mining specializations}{section.2}% 25
-\BOOKMARK [2][-]{subsection.2.5}{KDD - Conclusion}{section.2}% 26
-\BOOKMARK [1][-]{section.3}{Predictive Analytics}{}% 27
-\BOOKMARK [2][-]{subsection.3.1}{Predictive Analytics - Introduction}{section.3}% 28
-\BOOKMARK [2][-]{subsection.3.2}{Predictive Analytics - Methodical aspects}{section.3}% 29
-\BOOKMARK [2][-]{subsection.3.3}{Predictive Analytics - Architectural Aspects}{section.3}% 30
-\BOOKMARK [1][-]{section.4}{Conclusion}{}% 31
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Business Analytics}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{What are business analytics?}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Business Analytics - General procedure}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Business Analytics - Usage}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Business Analytics - Attention reasons}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Business Analytics - Application Areas}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.5.1}{Application Area - Analysis}{subsection.2.5}% 8
+\BOOKMARK [3][-]{subsubsection.2.5.2}{Application Area - Forecast}{subsection.2.5}% 9
+\BOOKMARK [3][-]{subsubsection.2.5.3}{Application Area - Optimization}{subsection.2.5}% 10
+\BOOKMARK [3][-]{subsubsection.2.5.4}{Application Area - Simulation}{subsection.2.5}% 11
+\BOOKMARK [3][-]{subsubsection.2.5.5}{Application Area - Radar}{subsection.2.5}% 12
+\BOOKMARK [2][-]{subsection.2.6}{What has to be considered with Business Analytics?}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.7}{Business Analytics - Analysis algorithms}{section.2}% 14
+\BOOKMARK [1][-]{section.3}{Knowledge Discovery in Databases\(KDD\) }{}% 15
+\BOOKMARK [2][-]{subsection.3.1}{KDD - Process}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.2}{KDD - Data Mining Application Procedures}{section.3}% 17
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Anomaly analysis}{subsection.3.2}% 18
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Cluster analyses}{subsection.3.2}% 19
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Classification}{subsection.3.2}% 20
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Association analyses}{subsection.3.2}% 21
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Regression analysis}{subsection.3.2}% 22
+\BOOKMARK [2][-]{subsection.3.3}{KDD - Data Mining specializations}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.4}{KDD - Conclusion}{section.3}% 24
+\BOOKMARK [1][-]{section.4}{Predictive Analytics}{}% 25
+\BOOKMARK [2][-]{subsection.4.1}{Predictive Analytics - Methodical aspects}{section.4}% 26
+\BOOKMARK [2][-]{subsection.4.2}{Predictive Analytics - Architectural Aspects}{section.4}% 27
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 28
+\BOOKMARK [2][-]{subsubsection.5.0.1}{Application Area - Resume [Copied from above]}{section.5}% 29

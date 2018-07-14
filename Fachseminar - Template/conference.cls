@@ -12,8 +12,6 @@ top=25mm,
 bottom=20mm
 }
 
-\usepackage[colorlinks]{hyperref}
-
 \usepackage{titlesec}
 \titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
